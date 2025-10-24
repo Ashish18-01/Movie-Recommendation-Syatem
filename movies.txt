@@ -1,0 +1,70 @@
+Inception
+Sci-Fi
+9.0
+Titanic
+Romance
+8.1
+Avengers: Endgame
+Action
+8.4
+La La Land
+Musical
+8.0
+The Dark Knight
+Action
+9.0
+Interstellar
+Sci-Fi
+8.6
+The Notebook
+Romance
+7.9
+Joker
+Thriller
+8.5
+Forrest Gump
+Drama
+8.8
+Gladiator
+Action
+8.5
+The Lion King
+Animation
+8.5
+The Matrix
+Sci-Fi
+8.7
+Pulp Fiction
+Crime
+8.9
+The Shawshank Redemption
+Drama
+9.3
+Parasite
+Thriller
+8.6
+Avengers: Infinity War
+Action
+8.5
+Coco
+Animation
+8.4
+Black Panther
+Action
+7.3
+Frozen
+Animation
+7.5
+Your Name
+Animation
+8.4
+La La Land
+Musical
+8.0
+Soul
+Animation
+8.1
+Dune
+Sci-Fi
+8.2
+
